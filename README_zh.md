@@ -43,9 +43,9 @@
 |    |    └── tuya_mirror_screen.c            //显示屏相关代码文件
 |    ├── mirror_soc                   //tuya SDK soc层接口相关文件
 |    ├── tuya_device.c             //应用层入口文件
-|    ├── app_mirror.c            //主要应用层
+|    ├── tuya_app.c            //主要应用层
 |    ├── svc_weather_service.c            //天气服务组件(暂不对外开放)
-|    └── mirror_control.c             //按键相关逻辑
+|    └── tuya_mirror_control.c             //按键相关逻辑
 | 
 ├── include				//头文件目录
 |    ├── mirror_driver
@@ -54,9 +54,9 @@
 |    |    └── tuya_mirror_screen.h         
 |    ├── mirror_soc
 |    ├── tuya_device.h
-|    ├── app_mirror.h
+|    ├── tuya_app.h
 |    ├── svc_weather_service.h
-|    └── mirror_control.h
+|    └── tuya_mirror_control.h
 |
 └── output              //编译产物
 ```
