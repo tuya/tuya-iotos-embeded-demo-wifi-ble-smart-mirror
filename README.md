@@ -47,7 +47,7 @@ Translated with www.DeepL.com/Translator (free version)
 |    ├── tuya_device.c             //Application layer entry file
 |    ├── tuya_app.c            //Main application layer
 |    ├── svc_weather_service.c            //Weather service component (not open to the public at this time)
-|    └── tuya_mirror_control.c             //Key-related logic
+|    └── tuya_mirror_control.c             //device function related logic
 | 
 ├── include				//Header file directory
 |    ├── mirror_driver
