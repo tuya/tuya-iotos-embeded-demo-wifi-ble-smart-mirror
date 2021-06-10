@@ -24,8 +24,8 @@
 #include "tuya_led.h"
 #include "tuya_uart.h"
 #include "BkDriverUart.h"
-#include "app_mirror.h"
-#include "mirror_control.h"
+#include "tuya_app.h"
+#include "tuya_mirror_control.h"
 /* Private includes ----------------------------------------------------------*/
 #include "tuya_device.h"
 

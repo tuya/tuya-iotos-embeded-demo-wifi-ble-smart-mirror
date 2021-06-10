@@ -2,15 +2,15 @@
  * @Author: zgw
  * @email: liang.zhang@tuya.com
  * @LastEditors: zgw
- * @file name: mirror_control.c
+ * @file name: tuya_mirror_control.c
  * @Description: 
  * @Copyright: HANGZHOU TUYA INFORMATION TECHNOLOGY CO.,LTD
  * @Company: http://www.tuya.com
  * @Date: 2020-12-16 18:51:29
- * @LastEditTime: 2021-06-10 10:54:24
+ * @LastEditTime: 2021-06-10 13:23:44
  */
 
-#include "mirror_control.h"
+#include "tuya_mirror_control.h"
 #include "tuya_gpio.h"
 #include "tuya_uart.h"
 #include "BkDriverUart.h"

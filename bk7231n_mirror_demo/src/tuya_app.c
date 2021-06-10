@@ -2,7 +2,7 @@
  * @Author: zgw
  * @email: liang.zhang@tuya.com
  * @LastEditors: zgw
- * @file name: app_mirror.c
+ * @file name: tuya_app.c
  * @Description: light init process include file
  * @Copyright: HANGZHOU TUYA INFORMATION TECHNOLOGY CO.,LTD
  * @Company: http://www.tuya.com
@@ -10,8 +10,8 @@
  * @LastEditTime: 2021-06-03 12:07:04
  */
 
-#include "app_mirror.h"
-#include "mirror_control.h"
+#include "tuya_app.h"
+#include "tuya_mirror_control.h"
 #include "uni_time_queue.h"
 #include "sys_timer.h"
 #include "tuya_iot_wifi_api.h"

@@ -2,7 +2,7 @@
  * @Author: zgw
  * @email: liang.zhang@tuya.com
  * @LastEditors: zgw
- * @file name: app_mirror.h
+ * @file name: tuya_app.h
  * @Description: light init process include file
  * @Copyright: HANGZHOU TUYA INFORMATION TECHNOLOGY CO.,LTD
  * @Company: http://www.tuya.com
@@ -10,8 +10,8 @@
  * @LastEditTime: 2021-05-27 11:41:39
  */
 
-#ifndef __APP_MIRROR_H__
-#define __APP_MIRROR_H__
+#ifndef __TUYA_APP_H__
+#define __TUYA_APP_H__
 
 #include "uni_log.h"
 #include "tuya_cloud_error_code.h"
@@ -74,4 +74,4 @@ VOID app_report_all_dp_status(VOID);
 #endif /* __cplusplus */
 
 
-#endif  /* __APP_MIRROR_H__ */
+#endif  /* __TUYA_APP_H__ */

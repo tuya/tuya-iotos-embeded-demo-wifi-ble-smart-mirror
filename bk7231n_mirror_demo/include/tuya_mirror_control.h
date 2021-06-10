@@ -1,5 +1,5 @@
 /*
- * @file name: mirror_control.h
+ * @file name: tuya_mirror_control.h
  * @Descripttion: 
  * @Author: zgw
  * @email: liang.zhang@tuya.com
@@ -9,8 +9,8 @@
  * @LastEditors: zgw
  * @LastEditTime: 2021-06-07 15:18:01
  */
-#ifndef __MIRROR_CONTROL_H__
-#define __MIRROR_CONTROL_H__
+#ifndef __TUYA_MIRROR_CONTROL_H__
+#define __TUYA_MIRROR_CONTROL_H__
 
 #include "uni_log.h"
 #include "tuya_cloud_error_code.h"

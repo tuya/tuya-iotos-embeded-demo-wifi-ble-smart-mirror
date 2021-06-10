@@ -16,7 +16,7 @@
 #include "uni_time.h"
 #include "sys_timer.h"
 #include "stdio.h"
-#include "mirror_control.h"
+#include "tuya_mirror_control.h"
 #include "BkDriverGpio.h"
 
 tuya_uart_t *uart0;
