@@ -45,9 +45,9 @@ Translated with www.DeepL.com/Translator (free version)
 |    |    └── tuya_mirror_screen.c            //Display-related code files
 |    ├── mirror_soc                   //tuya SDK soc layer interface related files
 |    ├── tuya_device.c             //Application layer entry file
-|    ├── app_mirror.c            //Main application layer
+|    ├── tuya_app.c            //Main application layer
 |    ├── svc_weather_service.c            //Weather service component (not open to the public at this time)
-|    └── mirror_control.c             //Key-related logic
+|    └── tuya_mirror_control.c             //Key-related logic
 | 
 ├── include				//Header file directory
 |    ├── mirror_driver
@@ -56,9 +56,9 @@ Translated with www.DeepL.com/Translator (free version)
 |    |    └── tuya_mirror_screen.h         
 |    ├── mirror_soc
 |    ├── tuya_device.h
-|    ├── app_mirror.h
+|    ├── tuya_app.h
 |    ├── svc_weather_service.h
-|    └── mirror_control.h
+|    └── tuya_mirror_control.h
 |
 └── output              //Compilation products
 ```
