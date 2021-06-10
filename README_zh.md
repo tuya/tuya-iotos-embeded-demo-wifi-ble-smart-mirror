@@ -45,7 +45,7 @@
 |    ├── tuya_device.c             //应用层入口文件
 |    ├── tuya_app.c            //主要应用层
 |    ├── svc_weather_service.c            //天气服务组件(暂不对外开放)
-|    └── tuya_mirror_control.c             //按键相关逻辑
+|    └── tuya_mirror_control.c             //设备功能逻辑
 | 
 ├── include				//头文件目录
 |    ├── mirror_driver
